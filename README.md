@@ -3,6 +3,7 @@
 Playing this game on phone and was fed up with the time it may consume to find the right items (like expansions), either collect from random drop or waitning endlessly for it to appear in the Global HQ. So was inspired by the other guy created a C# bot as proof of concept and decided making my own on Python.. 
 
 Dont judge too hard as i have 0 Python kowledge, the code was created with the help of everyone's friend - Google :) . So you might see a funny pieces of code inside. 
+The main file to run is - Item_hunter.py
 
 The logic and current code is working great to find the correct items and purchase it from the HQ store, but there are some items to be improved in order to make this bot working for everyone. This one was created and tested with LD player Android emulator at 1280x720. 
 
