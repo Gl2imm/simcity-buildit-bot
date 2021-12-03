@@ -7,6 +7,7 @@ Dont judge too hard as i have 0 Python kowledge, the code was created with the h
 The main file to run is - Item_hunter.py
 
 The logic and current code is working great to find the correct items and purchase it from the HQ store, but there are some items to be improved in order to make this bot working for everyone. This one was created and tested with LD player Android emulator at 1280x720. 
+Sample on how it works can be seen here: https://youtu.be/0avERSOeyR8
 
 Sharing it here for 2 reasons:
 1. In case someone have the right knowledge, desire to have this bot too, but not much time to code or test it
