@@ -1,4 +1,4 @@
-# simcitybot
+# simcity build it bot
 
 Playing this game on phone and was fed up with the time it may consume to find the right items (like expansions), either collect from random drop or waitning endlessly for it to appear in the Global HQ. So was inspired by the other guy created a C# bot as proof of concept and decided making my own on Python.. 
 
